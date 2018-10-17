@@ -1,5 +1,5 @@
 # Box Drawing Art
-Use Box-drawing character to make sentence.
+Use box-drawing character to make sentence.
 
 # Usage
 ## Java
