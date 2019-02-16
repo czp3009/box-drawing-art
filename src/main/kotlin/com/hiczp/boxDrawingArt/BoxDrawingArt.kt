@@ -1,5 +1,8 @@
 package com.hiczp.boxDrawingArt
 
+/**
+ * Convert letters to box-drawing art
+ */
 class BoxDrawingArt {
     companion object {
         @JvmStatic
